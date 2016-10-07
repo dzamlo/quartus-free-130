@@ -11,7 +11,7 @@
 _basename=quartus-free
 pkgname="${_basename}-130"
 pkgver=13.0.1.232
-pkgrel=2
+pkgrel=3
 pkgdesc="Quartus II 13.0 Web Edition, the last version to support Cyclone II and earlier FPGAs."
 arch=('i686' 'x86_64')
 url="http://www.altera.com/products/software/quartus-ii/web-edition"
